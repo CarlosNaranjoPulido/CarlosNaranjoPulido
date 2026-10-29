@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hello everyone 👋
+
+
+<img width="194" height="228" alt="image" src="https://github.com/user-attachments/assets/c5ef5afb-d95e-4d18-aa6b-eade7e961247" />
 
 <!--
 **CarlosNaranjoPulido/CarlosNaranjoPulido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
